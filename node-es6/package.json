@@ -18,7 +18,7 @@
     "mime": "^2.4.3",
     "mongoose": "^5.5.15",
     "request": "^2.88.0",
-    "webpack": "^4.35.2"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "socket.io": "^2.2.0",
